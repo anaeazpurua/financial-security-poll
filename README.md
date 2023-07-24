@@ -20,6 +20,6 @@ The data was small so I didn't have to do a lot of analysis, but I did include a
   
 ### Things I tried/wanted to do but did not have the skills/time:
 If I had advanced JavaScript and D3.js skills, I would have built the story with both. I would have used the answer the user inputs at the beginning throughout the story to personalize it.  
-I could not embed the Altair-Vega graphic directly on my site. I tried to do it but it wouldn't display correctly. I ended up exporting it as a SVG, styling it in Illustrator, and then running the ai2html script. 
+I could not embed the Vega-Altair graphic directly on my site. I tried to do it but it wouldn't display correctly. I ended up exporting it as a SVG, styling it in Illustrator, and then running the ai2html script. 
 
 
