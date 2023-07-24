@@ -1,0 +1,16 @@
+{	
+	"fonts": [
+        {
+            "aifont": "Roboto-Regular",
+            "family": "Roboto",
+            "weight": "400",
+            "style": ""
+        },
+        {
+            "aifont": "Roboto-Bold",
+            "family": "Roboto",
+            "weight": "700",
+            "style": ""
+        },
+    ]
+}
